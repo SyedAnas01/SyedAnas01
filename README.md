@@ -4,7 +4,7 @@
 
 **AI/ML Engineer · LLM Security · Autonomous Agents · Data Engineering**
 
-[![mcp-shield](https://img.shields.io/badge/mcp--shield-🛡️%20MCP%20Security%20Scanner-dc2626?style=for-the-badge)](https://github.com/SyedAnas01/mcp-shield)
+[![mcp-shield](https://img.shields.io/badge/mcp--shield-🛡️%20MCP%20Security%20Scanner-dc2626?style=for-the-badge)](https://github.com/SyedAnas01/mcp-safeguard)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SyedAnas01)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/SyedAnas01)
 
@@ -22,7 +22,7 @@ Previously: data engineering pipelines with Apache Spark, ML systems for traffic
 
 ## Featured Projects
 
-### 🛡️ [mcp-shield](https://github.com/SyedAnas01/mcp-shield)
+### 🛡️ [mcp-shield](https://github.com/SyedAnas01/mcp-safeguard)
 > *Security scanner for MCP servers — the Snyk for AI agent tooling*
 
 Detects prompt injection, credential leaks, exposed endpoints, and tool poisoning in MCP servers. CVSS-scored findings with step-by-step remediation. 15+ injection rules, 17 credential patterns, 73 passing tests.

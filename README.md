@@ -28,7 +28,7 @@ Previously: data engineering pipelines with Apache Spark, ML systems for traffic
 Detects prompt injection, credential leaks, exposed endpoints, and tool poisoning in MCP servers. CVSS-scored findings with step-by-step remediation. 15+ injection rules, 17 credential patterns, 73 passing tests.
 
 ```bash
-pip install mcp-shield
+pip install mcp-safeguard
 ```
 
 ---

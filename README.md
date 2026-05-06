@@ -7,6 +7,7 @@
 [![mcp-shield](https://img.shields.io/badge/mcp--shield-🛡️%20MCP%20Security%20Scanner-dc2626?style=for-the-badge)](https://github.com/SyedAnas01/mcp-safeguard)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SyedAnas01)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/SyedAnas01)
+[![mcp-safeguard stars](https://img.shields.io/github/stars/SyedAnas01/mcp-safeguard?label=mcp-safeguard%20⭐&style=social)](https://github.com/SyedAnas01/mcp-safeguard)
 
 </div>
 
@@ -22,14 +23,16 @@ Previously: data engineering pipelines with Apache Spark, ML systems for traffic
 
 ## Featured Projects
 
-### 🛡️ [mcp-shield](https://github.com/SyedAnas01/mcp-safeguard)
+### 🛡️ [mcp-safeguard](https://github.com/SyedAnas01/mcp-safeguard)
 > *Security scanner for MCP servers — the Snyk for AI agent tooling*
 
-Detects prompt injection, credential leaks, exposed endpoints, and tool poisoning in MCP servers. CVSS-scored findings with step-by-step remediation. 15+ injection rules, 17 credential patterns, 73 passing tests.
+Detects **prompt injection** in tool descriptions, **credential leaks** (17 patterns), **exposed endpoints**, and **tool poisoning** before you connect MCP servers to your AI agent. CVSS-scored findings, HTML reports, 73 tests.
 
 ```bash
 pip install mcp-safeguard
 ```
+
+🌐 [syedanas01.github.io/mcp-safeguard](https://syedanas01.github.io/mcp-safeguard/)
 
 ---
 

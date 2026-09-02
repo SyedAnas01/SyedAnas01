@@ -4,7 +4,7 @@
 
 **AI/ML Engineer · LLM Security · Autonomous Agents · Data Engineering**
 
-[![mcp-shield](https://img.shields.io/badge/mcp--shield-🛡️%20MCP%20Security%20Scanner-dc2626?style=for-the-badge)](https://github.com/SyedAnas01/mcp-safeguard)
+[![mcp-safeguard](https://img.shields.io/badge/mcp--safeguard-🛡️%20MCP%20Security%20Scanner-dc2626?style=for-the-badge)](https://github.com/SyedAnas01/mcp-safeguard)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/SyedAnas01)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/SyedAnas01)
 [![mcp-safeguard stars](https://img.shields.io/github/stars/SyedAnas01/mcp-safeguard?label=mcp-safeguard%20⭐&style=social)](https://github.com/SyedAnas01/mcp-safeguard)
@@ -19,6 +19,8 @@ I build infrastructure at the intersection of AI and security. My current focus 
 
 Previously: data engineering pipelines with Apache Spark, ML systems for traffic prediction, legal NLP, and clinical AI.
 
+Real-world security fixes credited: [CVE-2026-14540](https://www.cve.org/CVERecord?id=CVE-2026-14540) in Google's official MCP Toolbox, and a merged hardening fix in [GitHub's own official MCP server](https://github.com/github/github-mcp-server/pull/3056).
+
 ---
 
 ## Featured Projects
@@ -26,7 +28,7 @@ Previously: data engineering pipelines with Apache Spark, ML systems for traffic
 ### 🛡️ [mcp-safeguard](https://github.com/SyedAnas01/mcp-safeguard)
 > *Security scanner for MCP servers — the Snyk for AI agent tooling*
 
-Detects **prompt injection** in tool descriptions, **credential leaks** (17 patterns), **exposed endpoints**, and **tool poisoning** before you connect MCP servers to your AI agent. CVSS-scored findings, HTML reports, 73 tests.
+Detects **prompt injection** in tool descriptions, **credential leaks** (25 patterns), **exposed endpoints**, and **tool poisoning** before you connect MCP servers to your AI agent. 66 detection rules, CVSS-scored findings, HTML reports. Credited with [CVE-2026-14540](https://www.cve.org/CVERecord?id=CVE-2026-14540) in Google's official MCP Toolbox.
 
 ```bash
 pip install mcp-safeguard
@@ -36,8 +38,8 @@ pip install mcp-safeguard
 
 ---
 
-### 🤖 [Agent-LAb](https://github.com/SyedAnas01/Agent-LAb)
-Multi-agent AI lab — experiments with autonomous agent architectures, tool use, and reasoning chains.
+### 🔬 [cve-credits-attribution](https://github.com/SyedAnas01/cve-credits-attribution)
+Replication package: does reporter attribution survive into CVE records, GitHub's OSV export, and the NVD? Four datasets, captured and documented.
 
 ### 🧠 [MultiscopeAI-CAN](https://github.com/SyedAnas01/MultiscopeAI-CAN)
 Multi-scope AI content analysis network — NLP pipeline for multi-domain classification.
@@ -80,7 +82,7 @@ CNN + XGBoost hybrid model for early Parkinson's detection from clinical biomark
 
 ## Contact
 
-- 📧 cognivators@gmail.com
+- 📧 anasmohiuddinsyed@gmail.com
 - 💼 Open to AI/ML engineering and security research roles
 - 🌐 [github.com/SyedAnas01](https://github.com/SyedAnas01)
 

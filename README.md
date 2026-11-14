@@ -2,7 +2,7 @@
 
 # Syed Anas Mohiuddin
 
-### AI Security Researcher · MCP & Agentic Systems · Founder of [Cognivators](https://www.cognivators.com)
+### AI Security Researcher · MCP & Agentic Systems
 
 **I find and fix the security bugs in the plumbing that lets AI agents use tools.**
 

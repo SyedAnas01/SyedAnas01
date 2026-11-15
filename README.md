@@ -25,12 +25,13 @@ Credited in **4 CVEs** (Google · Rapid7 · AWS ×2) · **17 published security 
 | [**CVE-2026-116635**](https://www.cve.org/CVERecord?id=CVE-2026-116635) | **AWS** — [aws-serverless-mcp-server](https://github.com/awslabs/mcp) | Path traversal via unvalidated `project_name` — read/write `.json` outside the deployment-status directory | **Moderate** |
 | [**CVE-2026-97228**](https://www.cve.org/CVERecord?id=CVE-2026-97228) | **Rapid7** — [Bulk Export MCP](https://github.com/rapid7/rapid7-bulk-export-mcp) | GraphQL query injection in the export status lookup | Low |
 
-## 🛡️ Published advisories & vendor recognition (17 total)
+## 🛡️ Published advisories & vendor recognition (18 total)
 
-Selected — **[full list of all 17 →](https://cognivators.com/advisories)**
+Selected — **[full list of all 18 →](https://cognivators.com/advisories)**
 
 | Recognition | Where I'm named |
 |---|---|
+| [**Extelligence (bagel)**](https://github.com/Extelligence-ai/bagel/security/advisories/GHSA-gx2g-3pch-43q5) | **Critical** advisory — unsandboxed DuckDB SQL + rsync command injection — credited **finder** (Nov 2026) |
 | [**Datalayer · Jupyter MCP Server**](https://github.com/datalayer/jupyter-mcp-server/security/advisories/GHSA-f8rf-rcrx-h6r9) | Critical advisory, credited reporter |
 | [**1Password-MCP**](https://github.com/CakeRepository/1Password-MCP/security/advisories/GHSA-q3gg-rgxh-gh64) (community) | High advisory, credited finder |
 | [**JPMorgan Chase**](https://responsibledisclosure.jpmorganchase.com/hc/en-us/articles/360023828114-Recognition-for-Responsible-Disclosures) | Public Recognition for Responsible Disclosures list |

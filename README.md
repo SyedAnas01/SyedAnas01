@@ -6,7 +6,7 @@
 
 **I find and fix the security bugs in the plumbing that lets AI agents use tools.**
 
-Credited in **4 CVEs** (Google · Rapid7 · AWS ×2) · **17 published security advisories** · named on the security recognition pages of **JPMorgan Chase, Weaviate, and Amazon Web Services** · featured by **Ars Technica** · speaking at **Black Hat Europe 2026**
+Credited in **4 CVEs** (Google · Rapid7 · AWS ×2) · **18 published security advisories** · named on the security recognition pages of **JPMorgan Chase, Weaviate, and Amazon Web Services** · featured by **Ars Technica** · speaking at **Black Hat Europe 2026**
 
 **📍 Chicago → London (Dec 2026)** · 📧 [anas.syed@cognivators.com](mailto:anas.syed@cognivators.com) · 🔗 [cognivators.com](https://www.cognivators.com) · [advisory list](https://cognivators.com/advisories) · [research](https://www.cognivators.com/founder/research)
 

@@ -6,7 +6,7 @@
 
 **I find and fix the security bugs in the plumbing that lets AI agents use tools.**
 
-Credited in **4 CVEs** (Google · Rapid7 · AWS ×2) · **18 published security advisories** · named on the security recognition pages of **JPMorgan Chase, Weaviate, and Amazon Web Services** · featured by **Ars Technica** · speaking at **Black Hat Europe 2026**
+Credited in **4 CVEs** (Google · Rapid7 · AWS ×2) · **19 published security advisories** · named on the security recognition pages of **JPMorgan Chase, Weaviate, and Amazon Web Services** · featured by **Ars Technica** · speaking at **Black Hat Europe 2026**
 
 **📍 Chicago → London (Dec 2026)** · 📧 [anas.syed@cognivators.com](mailto:anas.syed@cognivators.com) · 🔗 [cognivators.com](https://www.cognivators.com) · [advisory list](https://cognivators.com/advisories) · [research](https://www.cognivators.com/founder/research)
 
@@ -25,12 +25,13 @@ Credited in **4 CVEs** (Google · Rapid7 · AWS ×2) · **18 published security 
 | [**CVE-2026-116635**](https://www.cve.org/CVERecord?id=CVE-2026-116635) | **AWS** — [aws-serverless-mcp-server](https://github.com/awslabs/mcp) | Path traversal via unvalidated `project_name` — read/write `.json` outside the deployment-status directory | **Moderate** |
 | [**CVE-2026-97228**](https://www.cve.org/CVERecord?id=CVE-2026-97228) | **Rapid7** — [Bulk Export MCP](https://github.com/rapid7/rapid7-bulk-export-mcp) | GraphQL query injection in the export status lookup | Low |
 
-## 🛡️ Published advisories & vendor recognition (18 total)
+## 🛡️ Published advisories & vendor recognition (19 total)
 
-Selected — **[full list of all 18 →](https://cognivators.com/advisories)**
+Selected — **[full list of all 19 →](https://cognivators.com/advisories)**
 
 | Recognition | Where I'm named |
 |---|---|
+| [**eGovernments DIGIT**](https://github.com/egovernments/Digit-Core/security/advisories/GHSA-qjf8-6cfm-9r76) | **Critical** SQL injection in DIGIT LTS Core (`egov-user` / `egov-accesscontrol`) — cross-tenant Aadhaar/PAN exposure on a DPGA-certified Digital Public Good — credited **reporter** (Nov 2026) |
 | [**Extelligence (bagel)**](https://github.com/Extelligence-ai/bagel/security/advisories/GHSA-gx2g-3pch-43q5) | **Critical** advisory — unsandboxed DuckDB SQL + rsync command injection — credited **finder** (Nov 2026) |
 | [**Datalayer · Jupyter MCP Server**](https://github.com/datalayer/jupyter-mcp-server/security/advisories/GHSA-f8rf-rcrx-h6r9) | Critical advisory, credited reporter |
 | [**1Password-MCP**](https://github.com/CakeRepository/1Password-MCP/security/advisories/GHSA-q3gg-rgxh-gh64) (community) | High advisory, credited finder |
@@ -38,7 +39,7 @@ Selected — **[full list of all 18 →](https://cognivators.com/advisories)**
 | [**Weaviate**](https://github.com/weaviate/security-hall-of-fame) | Security Hall of Fame — SSRF, Aug 2026 |
 | [**Amazon Web Services**](https://aws.amazon.com/security/security-bulletins/2026-164-aws/) | Security bulletins 2026-164 & 2026-176 — named thanks |
 | [**Uber**](https://github.com/uber/ADR/pull/113) · [**Composio**](https://github.com/ComposioHQ/composio/pull/4318) · [**DoiT**](https://github.com/doitintl/doit-mcp-server/pull/247) · [**Timescale**](https://github.com/timescale/mcp-boilerplate-node/pull/50) | Merged security fixes, credited by name in the PR |
-| **NAV Norway** ([GHSA-7hwf-488h-59x8](https://github.com/navikt/copilot), joint) · **France [data.gouv.fr](https://github.com/datagouv/datagouv-mcp/pull/126)** · **Tangerang, Indonesia** ([Wazuh-MCP GHSA](https://github.com/INFOKOM-KI/Wazuh-MCP-Server)) | Government fixes crediting me by name |
+| **India DIGIT** ([GHSA-qjf8-6cfm-9r76](https://github.com/egovernments/Digit-Core/security/advisories/GHSA-qjf8-6cfm-9r76)) · **NAV Norway** ([GHSA-7hwf-488h-59x8](https://github.com/navikt/copilot), joint) · **France [data.gouv.fr](https://github.com/datagouv/datagouv-mcp/pull/126)** · **Tangerang, Indonesia** ([Wazuh-MCP GHSA](https://github.com/INFOKOM-KI/Wazuh-MCP-Server)) | Government fixes crediting me by name |
 
 ## 🔀 Security fixes I authored, merged by the vendors
 
